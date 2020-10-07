@@ -34,9 +34,9 @@ https://docs.google.com/document/d/1QIbE7NBJTxmhFk4LiQcf-qetygw9BTf1BydiP4hf8q4/
 # Main Quesions
 
 Morning session (Eric + Victoria)
-* Is there a better process than the unsupervised → supervised we are using?  
-* How can we make more data? Transfer learning is still a big question mark, how is it implementable? What is the best way?  
-* How do we avoid missing the anomaly that contains the Nobel prize? (--> trusting AI theme)  
+* [Q1] Is there a better process than the unsupervised → supervised we are using?  
+* [Q2] How can we make more data? Transfer learning is still a big question mark, how is it implementable? What is the best way?  
+* [Q3] How do we avoid missing the anomaly that contains the Nobel prize? (--> trusting AI theme)  
 
 Afternoon session (James)
 * What methods for decision making process (classical expert system approach, ML approach) understand how the process works, “explainable AI” (--> trusting AI theme)
