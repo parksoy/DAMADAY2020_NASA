@@ -1,6 +1,7 @@
 # DAMADAY2020_NASA Temporary repo for preparation
 
 As of Oct 6,2020
+Soyoung currently reads first received csv, simple EDA locally.
 
 Will need to 
 
