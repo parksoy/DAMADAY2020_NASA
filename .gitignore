@@ -2,3 +2,4 @@
 *.pptx
 HARDataset
 temp*
+.ipynb_checkpoints
